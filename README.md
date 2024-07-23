@@ -4,19 +4,19 @@ Este repositório é uma cópia de um repositório sobre a licença AGPL-3. E de
 * O repositório do github:
     * https://github.com/ta-iot/taiga-front.git
 * O repositório do gitlab:
-    * https://git.pti.org.br/celtab/apps-tadt/taigaio/taiga-front.git
+    * https://git.***/taigaio/taiga-front.git
 
 * Se você realizou o clone do repositório do gitlab o seu `origin` será o gitlab, e vise versa.
 
 * Para adicionar o repositório remoto do github execute:
     * `git remote add github https://github.com/ta-iot/taiga-front.git`
 
-* Para visualizar a lista de repositóiros remotos:
+* Para visualizar a lista de repositórios remotos:
     * `git remote -v` 
     * você verá o seguinte resultado:
         ```
-        origin  https://git.pti.org.br/celtab/apps-tadt/taigaio/taiga-front.git (fetch)
-        origin  https://git.pti.org.br/celtab/apps-tadt/taigaio/taiga-front.git (push)
+        origin  https://git.***/taigaio/taiga-front.git (fetch)
+        origin  https://git.***/taigaio/taiga-front.git (push)
         github  https://github.com/ta-iot/taiga-front.git (fetch)
         github  https://github.com/ta-iot/taiga-front.git (push)
         ```
